@@ -1,16 +1,16 @@
-# 👋 ¡Hola! Soy [Daniel]
+# 👋 Mucho gusto, mi nombre es [Daniel]
 
-## 🎯 Mi objetivo: Convertirme en Analista de SOC y comer asado los martes y jueves
+## 🎯 Objetivo en la ciberseguridad: Convertirme en Analista de SOC y comer asado los martes y jueves
 
 Estoy siguiendo una hoja de ruta estructurada para aprender ciberseguridad desde cero.
 
-## 📚 Lo que estoy aprendiendo ahora:
+## 📚 Lo que estoy comenzando a aprender desde ahora:
 - [x] Configurar mi primer laboratorio con VirtualBox
 - [x] Crear mi cuenta en TryHackMe
 - [ ] Aprender los fundamentos de redes
 - [ ] Instalar y usar Wireshark
 
-## 🛠️ Mi setup actual:
+## 🛠️ Mi Cacharro actual:
 - **Sistema operativo:** Windows
 - **RAM:** 16GB
 - **Herramientas:** VirtualBox, Ubuntu Server
@@ -21,7 +21,7 @@ Estoy siguiendo una hoja de ruta estructurada para aprender ciberseguridad desde
 ✅ Empecé a seguir la ruta de SOC  
 ✅ Instalé VirtualBox  
 
-## 🤝 Conéctate conmigo:
+## 🤝 Cotactate conmigo, no tengo titulo pero si muchas ganas de aprender y laburar:
 - **LinkedIn:** [Tu perfil de LinkedIn](https://linkedin.com/in/tuperfil)
 - **TryHackMe:** [Tu perfil de THM](https://tryhackme.com/p/tuusuario)
 
